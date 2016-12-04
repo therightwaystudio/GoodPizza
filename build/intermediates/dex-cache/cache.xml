@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.8.0_edf13af1112f763f07efbce94b86fd84e3662524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_77cca5cbcd9a6cf22baeea3343c95d1a1725dae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_f774a678f2ea6b00f4bede2e7d62300ef49524e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\okio-1.8.0_51f7a9c1bccc96583ebf1304a35475dfb05d5830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_9b07ca20c96825fa8ee7ee7a1e50391b48287909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-simplexml\2.1.0\a71c37fa341165df2c61ba93f549c4ceeb98d6c8\converter-simplexml-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a71c37fa341165df2c61ba93f549c4ceeb98d6c8">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\converter-simplexml-2.1.0_f484f6c625902e2655c633df5f827badce248df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5f84b5bb7e36a11d98f6e1f8c945597c72b86158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_dedab62a5ebe70100cc9574911fcb1ae636b18e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao\3.2.0\e70040568b2929b8e5869ad1ffca8e4386dc53bc\greendao-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e70040568b2929b8e5869ad1ffca8e4386dc53bc">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\greendao-3.2.0_8f7c51c53e0bc05b5a507d96bbb6bb815f164d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_17744faa89d065c1b04f102264d442ee53d493f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_cf84944c474c3b200abcf0af461d8870908d20e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_f264d0fbec59ac2a1b8cd6a65ba0beea3b395b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_eac435f76f5ed1be16db3ffa82c62309e73c586d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_60078b0d5991764ae32fdf2f29b54d84a9bd327d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\library\1.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d16ffcc50b1dfa726cf978ea9f0a949cdd70e7d">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.ogaclejapan.smarttablayout-library-1.6.1_b64bf6cb62da6fa7704b5edb4e7266ad3b6102a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Romanovsky_m\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_e9bac42b1a5cb0750abd9fded5f5093bbf720535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_07750e7c4a3bff9826fbde58805524ac73bb9461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_94aa277dff72ee9dffdd7dd26cbeca4c810fe08d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_b5161a65b1953fedc5cd4377f07b42ca92a65d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_87db10d7d10c027dc699cbca2e07aaaa5af62343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1_2770ecd8b4f7ceaeabe698c9fdcfa8d1a9b9d854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.github.rahatarmanahmed\circularprogressview\2.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="83546b0a7a55c89fcaa55ff282812a4e052e81fe">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.github.rahatarmanahmed-circularprogressview-2.5.0_a488ca78da3dc6c515fe8849a320d2fb2c1adf5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_a1ca2c19989a1ed2a9f54add01bf7f43dfd4e04a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_e09fa26f8dbb3484566c6403531f5948ed88ecc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao-api\3.2.0\c6d610abe1d75d758431c9234917a349abc0a0ac\greendao-api-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c6d610abe1d75d758431c9234917a349abc0a0ac">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\greendao-api-3.2.0_610df3e8c7b5538d22d1545f5c5a467a6ed6c6ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_ac76d6ed9c7f3113ccafaf1520d75c6a50fa1f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\percent\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c796c6602e5fa48f90a81c8ab3b3a21a205d1853">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-percent-25.0.0_2ad849ffd564064bdd16fae5abe991fadf722c74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_5509e165f2a70da1e1bd5fb08154a712de4a963b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.romandanylyk\pageindicatorview\0.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8fc216249f454c91ebf5b86ba0e43fe38d9960cb">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.romandanylyk-pageindicatorview-0.0.6_970336c02e4a89078da1c4fdf809a9f7dcf29c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_47a520aebdc31bac3b3f2fc1c84b319441841926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_fa5ef5d0e9f09a2f2664c5abcfc4cf9055eb128e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.8.0_a26a955460cfc5085f0f1e07c0d9dac3fc448ce9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_fa833994bb8e2037680fd8825328fefe96792be1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_46f1dbfcd4112c1ea368c1cbe8255e1a870eb129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_49076ee5d4ba59b3f6b48ef1e34ce703071def5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\AndroidStudioProjects\GoodPizza\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_29cbff9532be29ab4091e20bb055fef89e14f73f.jar" />
+    </item>
+
+</items>

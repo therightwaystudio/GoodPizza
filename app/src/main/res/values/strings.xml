@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">GoodPizza</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_free_play">Free Play</string>
+    <string name="drawer_item_custom">Custom</string>
+    <string name="drawer_item_settings">Settings</string>
+    <string name="drawer_item_help">Help</string>
+    <string name="drawer_item_open_source">Open Source</string>
+    <string name="drawer_item_contact">Contact</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="weight">Вес:</string>
+    <string name="price">Цена:</string>
+    <string name="description">Описание:</string>
+    <string name="supplements">Добавки</string>
+    <string name="drinks">Напитки</string>
+    <string name="desserts">Десерты</string>
+    <string name="noodles">Лапша</string>
+    <string name="party_maker">Патимейкер</string>
+    <string name="sets">Сеты</string>
+    <string name="rolls">Роллы</string>
+    <string name="sushi">Суши</string>
+    <string name="soups">Супы</string>
+    <string name="warm">Тёплое</string>
+    <string name="snacks">Закуски</string>
+    <string name="pizza">Пицца</string>
+    <string name="salads">Салаты</string>
+    <string name="catalog">Каталог</string>
+    <string name="no_def">не указан</string>
+    <string name="contacts">Контакты</string>
+    <string name="our_contacts">Наши контакты</string>
+    <string name="our_map">Мы на карте</string>
+    <string name="our_number">Наш номер: +375292959954</string>
+    <string name="our_email">Наш e-mail: therightwaystudio@gmail.com</string>
+    <string name="our_address">Наш адрес: г.Минск</string>
+    <string name="home">На главную</string>
+    <string name="number">+375292959954</string>
+    <string name="not_def_price">не указана</string>
+    <string name="basket">Корзина</string>
+    <string name="my_buy">Мои покупки</string>
+    <string name="no_offer_in_buy">Нет товаров в корзине</string>
+    <string name="send_order">Отправить заказ</string>
+    <string name="my_order">Мои заказы</string>
+    <string name="loading_date">Загрузка данных...</string>
+    <string name="no_network_connection">Нет доступа к сети Интернет.</string>
+    <string name="connection_fail">Ошибка при подключении</string>
+    <string name="try_again">Попробовать ещё раз</string>
+    <string name="popular">Популярное</string>
+    <string name="title_activity_popular_offers">Популярное</string>
+    <string name="long_string">The main workhorse here is the onPageScrolled() method which will be called whenever the ViewPager scroll position changes in response to a drag or swipe by the user. It essentially manages a state machine whose state changes depending on whether a scroll is in progress or not. The first three conditionals check for changes in state, and the final two apply an appropriate movement depending on the direction of scrolling.  There are a number of methods which simply encapsulate some boolean logic which return things like whether the scroll has finished, or the scroll direction. These are simply to improve readability of the code – the actual boolean logic itself requires some study and understanding, so by replacing this with a meaningful method name instead of the raw logic it make it easier to understand the flow through onPageScrolled().  Similarly there are two methods for starting and stopping the scroll which set the state appropriately.  Finally there are a couple more interface methods – onPageScrollStateChanged() which we’re not interested in because we are detecting state changes ourself. The reason for this is handling some edge cases where the user begins dragging in one direction, and then changes direction without lifting.  The final method is onPageSelected() which gets called if the user taps on one of the tabs rather than dragging or swiping the ViewPager. In this case we actually want to smoothly transition from the image for the start position directly to the image in the end position. If we were to omit this, we might see a strobing effect when we pass though many different positions because we would load each of the images in the positions between the start and end position.  An alternative approach for managing transition is to use ViewPager.PageTransformer instead of ViewPager.OnPageChangeListener. The reason I have opted for this approach is that PageTransformer is well suited for handling transitions between the different pages within the ViewPager itself, but OnPageChangeListener gives us a little finer-grained control when it comes to applying the transition to object external to the ViewPager.  So PageChangeListener is responsible for managing the scroll state, but does not actually perform the transitions. This separation of concerns is useful because we can reuse this logic an just apply different ImageAnimator implementations – and it’s the ImageAnimator which actually manages the transition itself. So let’s take a look at this:</string>
+</resources>

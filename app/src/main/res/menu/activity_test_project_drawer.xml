@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="@string/catalog">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_salads"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/salads"/>
+
+                <item
+                    android:id="@+id/nav_pizza"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/pizza"/>
+
+                <item
+                    android:id="@+id/nav_snacks"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/snacks"/>
+
+                <item
+                    android:id="@+id/nav_teploe"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/warm"/>
+
+                <item
+                    android:id="@+id/nav_soups"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/soups"/>
+
+                <item
+                    android:id="@+id/nav_sushi"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/sushi"/>
+
+                <item
+                    android:id="@+id/nav_rolls"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/rolls"/>
+
+                <item
+                    android:id="@+id/nav_sets"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/sets"/>
+
+                <item
+                    android:id="@+id/nav_party_maker"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/party_maker"/>
+
+                <item
+                    android:id="@+id/nav_noodles"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/noodles"/>
+
+                <item
+                    android:id="@+id/nav_desserts"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/desserts"/>
+
+                <item
+                    android:id="@+id/nav_drinks"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/drinks"/>
+
+                <item
+                    android:id="@+id/nav_supplements"
+                    android:icon="@drawable/arrow_icon"
+                    android:title="@string/supplements"/>
+
+                <item
+                    android:id="@+id/nav_popular_offers"
+                    android:icon="@drawable/popular_icon"
+                    android:title="@string/popular"/>
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="@string/my_order">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_basket"
+                    android:icon="@drawable/white_buy_icon"
+                    android:title="@string/basket"/>
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="@string/contacts">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_location"
+                    android:icon="@drawable/location_icon"
+                    android:title="@string/our_map"/>
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@drawable/contacts_icon"
+                    android:title="@string/our_contacts"/>
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
